@@ -58,5 +58,6 @@ Welcome to our **innovative project**, dedicated to **revolutionizing** book rec
 
 Our **novel book recommendation system**, combining the strengths of **popularity-based** and **collaborative filtering approaches**, **reshapes the book discovery experience**. By offering insights into **popular trends** and **tailoring recommendations to individual preferences**, we **revolutionize** how readers **discover their next literary adventure**, promising a **delightful and enriching journey**. 📖🌟
 
-🔗 Dataset: (Book Recommendation System)[https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset]
-👤Author: (AryaInGit)[https://github.com/AryaInGit]
+**Data Source** 📊:     
+🔗 Dataset: [Book Recommendation System](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
+👤Author: [AryaInGit](https://github.com/AryaInGit)
